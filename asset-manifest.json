@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/NICO_PRACTICE_01/static/js/main.aa63658a.js",
+    "main.css": "/NICO_PRACTICE_01/static/css/main.71bd9717.css",
+    "main.js": "/NICO_PRACTICE_01/static/js/main.7b64868a.js",
     "index.html": "/NICO_PRACTICE_01/index.html",
-    "main.aa63658a.js.map": "/NICO_PRACTICE_01/static/js/main.aa63658a.js.map"
+    "main.71bd9717.css.map": "/NICO_PRACTICE_01/static/css/main.71bd9717.css.map",
+    "main.7b64868a.js.map": "/NICO_PRACTICE_01/static/js/main.7b64868a.js.map"
   },
   "entrypoints": [
-    "static/js/main.aa63658a.js"
+    "static/css/main.71bd9717.css",
+    "static/js/main.7b64868a.js"
   ]
 }
